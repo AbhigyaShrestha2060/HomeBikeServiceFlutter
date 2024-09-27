@@ -1,0 +1,7 @@
+class HiveTableConstant {
+  HiveTableConstant._();
+
+  static const int userBoxId = 0;
+  static const String userBox = 'UserBox';
+  static const String bookingBox = 'BookingBox';
+}
